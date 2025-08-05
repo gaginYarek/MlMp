@@ -1,0 +1,1001 @@
+﻿OBL;BAZA;TIMESTAMP;ATTRIBUTE;Модель;Свойство;Значение
+0;RM;2025-05-18 18:38:27.000;;1.5 TBC;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;1.5 E50 PGC;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;1.6 Lutina AS PGC-UV;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6 NV2 Photogrey;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.6;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.5 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60 NV2 photobrown;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60 NV2 photogrey;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6 NV2 Photobrown;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6 NV2 Photobrown;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6 NV2 Photogrey;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6 NV2 Photobrown;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6 NV2 Photogrey;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.6;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.6;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.5;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.5;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.5;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  B;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  A;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  B;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Far 1.6;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Flex 1.6;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Near 1.6;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  A;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.60 Photo;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WL Assist II - 0.88 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLAssist II - 0.88 1.60 Photo;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLAssist II - 0.88 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Organic 1.54 HSAR Brown/Grey stock Photo;Индекс преломления;1,54
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50 PhotoDark;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60 PhotoDark;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50 Photo;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60 Photo;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50 Photo;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60 Photo;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50 Photo;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60 Photo;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50 Photo;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60 Photo;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.50 Photo;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.60 Photo;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.50 Photo;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.60 Photo;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.50 Photo;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.60 Photo;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.50 Photo;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.60 Photo;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WL Reader I 0.75 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50 Polar;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60 Photo;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 Photo;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 PhotoDark;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 Photo;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 PhotoDark;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;WLBifC28 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLASf 1.60W HMCP STOC D/HD Slim SkyLight UV;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMCP STOC D/Basic SkyLight;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.56W HMCP Photo/SunComfort Basic SkyLight UV;Индекс преломления;1,56
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMC STOC D/Slim Isee;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMCSB STOC D/Basic SkyLight Digital UV;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W UC STOC D/Basic Simple;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Hilux TrueForm 1.50 Sensity Dark;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Hilux TrueForm 1.60 Sensity Dark;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.54 NV2 PHGY;Индекс преломления;1,54
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.54 NV2 PHBN;Индекс преломления;1,54
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60 NV2 PHGY;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 1.0 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;Bifocal 1.5;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;1.52 Stigmal 15;Индекс преломления;1,52
+0;RM;2025-05-18 18:38:27.000;;HL 1.50C SHV STOC;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLASf 1.67W HMCP STOC D/HD Ultraslim Slim SkyLight UV;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMC STOC D/Basic Isee;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMCSB STOC D/Slim SkyLight Digital UV;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMCP STOC D/Slim SkyLight;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;HL 1.50C HVA STOC;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;HL 1.50C UC STOC;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;NL 1.60M HVA STOC;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Miyosmart 1.59;Индекс преломления;1,59
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.54 NV2 PHGY;Индекс преломления;1,54
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.54 NV2 PHBN;Индекс преломления;1,54
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60 NV2 PHBN;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.5 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.8 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 1.0 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.54 NV2 PHBN;Индекс преломления;1,54
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.54 NV2 PHGY;Индекс преломления;1,54
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.54 NV2 PHBN;Индекс преломления;1,54
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.54 NV2 PHGY;Индекс преломления;1,54
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.50;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.54 NV2 PHBN;Индекс преломления;1,54
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.54 NV2 PHGY;Индекс преломления;1,54
+0;RM;2025-05-18 18:38:27.000;;HL 1.53P HVA STOC;Индекс преломления;1,53
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 HVA (Stock+);Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 SHV (Stock+);Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;Nikon Lite AS 1.50 ECC;Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.60 NV2 Photobrown;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.60 NV2 Photogrey;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.60 NV2 Photobrown;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.60 NV2 Photogrey;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.67;Индекс преломления;1,67
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60 NV2 photobrown;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60 NV2 photogrey;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.5 (RX);Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.5 (RX);Индекс преломления;1,5
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.6;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.6;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.8 1.60;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;AS Stellest Airwear 1.59;Индекс преломления;1,59
+0;RM;2025-05-18 18:38:27.000;;Nikon Lite AS 1.60 Pure Blue UV;Индекс преломления;1,6
+0;RM;2025-05-18 18:38:27.000;;1.56 E56 AS PGC;Индекс преломления;1,56
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  B;Degr;1,5
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  A;Degr;0,8
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  B;Degr;1,5
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 SHV (Stock+);Исключения METS;Нет
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 HVA (Stock+);Исключения METS;Нет
+0;RM;2025-05-18 18:38:27.000;;Miyosmart 1.59;Исключения METS;Нет
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.67;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60 Photo;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50 Photo;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.67;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60 Photo;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50 Photo;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.67;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60 Photo;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50 Photo;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.67;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60 Photo;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50 Photo;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.67;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 PhotoDark;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 Photo;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 PhotoDark;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 Photo;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;Hilux TrueForm 1.60 Sensity Dark;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;Hilux TrueForm 1.50 Sensity Dark;Исключения METS;Да
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 Photo;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 PhotoDark;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 Photo;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 PhotoDark;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.67;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WLBifC28 1.50;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WL Reader I 0.75 1.50;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.50;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.60;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.67;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60 Photo;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50 Polar;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.60;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.50;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;Miyosmart 1.59;Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 HVA (Stock+);Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 SHV (Stock+);Минимальный коридор прогрессии;0
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  A;Degr;0,8
+0;RM;2025-05-18 18:38:27.000;;Miyosmart 1.59;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 HVA (Stock+);Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 SHV (Stock+);Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLBifC28 1.50;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.67;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 PhotoDark;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 Photo;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 PhotoDark;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 Photo;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50 Polar;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60 Photo;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.67;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WL Reader I 0.75 1.50;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.50;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.60;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.60;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.50;Вертекс в пробной оправе;0
+0;RM;2025-05-18 18:38:27.000;;1.52 Stigmal 15;RX;Складские
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50 Polar;Светопропускание;Поляризационные
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Flex 1.5;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Near 1.5;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.60;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.60 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.50;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.50 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.60;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.60 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.50;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.50 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.60;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.60 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.50;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.50 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.60;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.60 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.50;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.50 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.67;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.67;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.67;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.67;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50 Photo;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.67;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.67;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.67;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Near 1.6;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Flex 1.6;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Far 1.6;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6 NV2 Photogrey;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6 NV2 Photobrown;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6 NV2 Photogrey;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6 NV2 Photobrown;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6 NV2 Photobrown;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6 NV2 Photogrey;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.54 NV2 PHGY;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.54 NV2 PHBN;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.50;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.54 NV2 PHGY;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.54 NV2 PHBN;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.50;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.54 NV2 PHGY;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.54 NV2 PHBN;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.50;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Far 1.5;Тип линзы;Полный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  A;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.6;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  B;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  A;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  B;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.5;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.5;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.5;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.6;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.6;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.60;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.50;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.67;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.60;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.50;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.67;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.60;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.50;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.67;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.60;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.50;Тип линзы;Офисный прогрессив
+0;RM;2025-05-18 18:38:27.000;;AS Stellest Airwear 1.59;Бренд;ESSILOR
+0;RM;2025-05-18 18:38:27.000;;1.52 Stigmal 15;Бренд;ESSILOR
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.60 NV2 Photobrown;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.67;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.60 NV2 Photogrey;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.60 NV2 Photobrown;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.60 NV2 Photogrey;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.67;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.60;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.67;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.67;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60 NV2 photobrown;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60 NV2 photogrey;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.5 (RX);Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.5 (RX);Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.6;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.6;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.60;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.8 1.60;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Organic 1.54 HSAR Brown/Grey stock Photo;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6 NV2 Photogrey;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.6;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.5 1.60;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60 NV2 photobrown;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60 NV2 photogrey;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6 NV2 Photobrown;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6 NV2 Photobrown;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6 NV2 Photogrey;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6 NV2 Photobrown;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6 NV2 Photogrey;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.6;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.6;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.5;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.5;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.5;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  B;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  A;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  B;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Far 1.6;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Flex 1.6;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Near 1.6;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.67;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.67;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.67;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  A;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Flex 1.5;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Near 1.5;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.54 NV2 PHGY;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.54 NV2 PHBN;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60 NV2 PHGY;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 1.0 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.67;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Bifocal 1.5;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.60;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.67;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.60;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.67;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.60;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.67;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Far 1.5;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.54 NV2 PHGY;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.54 NV2 PHBN;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60 NV2 PHBN;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.5 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.8 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 1.0 1.60;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.60;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.54 NV2 PHBN;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.54 NV2 PHGY;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.54 NV2 PHBN;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.54 NV2 PHGY;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.50;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.54 NV2 PHBN;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.54 NV2 PHGY;Бренд;KEFF PREMIUM by RODENSTOCK
+0;RM;2025-05-18 18:38:27.000;;1.5 TBC;Бренд;TOKAI
+0;RM;2025-05-18 18:38:27.000;;1.5 E50 PGC;Бренд;TOKAI
+0;RM;2025-05-18 18:38:27.000;;1.6 Lutina AS PGC-UV;Бренд;TOKAI
+0;RM;2025-05-18 18:38:27.000;;1.56 E56 AS PGC;Бренд;TOKAI
+0;RM;2025-05-18 18:38:27.000;;1.52 Stigmal 15;Страна бренда;Франция
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.8 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.6;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.6;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.5 (RX);Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.5 (RX);Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60 NV2 photogrey;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60 NV2 photobrown;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.60 NV2 Photogrey;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.60 NV2 Photobrown;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.60 NV2 Photogrey;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.60 NV2 Photobrown;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Nikon Lite AS 1.50 ECC;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 SHV (Stock+);Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 HVA (Stock+);Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;HL 1.53P HVA STOC;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.54 NV2 PHGY;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.54 NV2 PHBN;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.54 NV2 PHGY;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.54 NV2 PHBN;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.54 NV2 PHGY;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.54 NV2 PHBN;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 1.0 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.8 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.5 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60 NV2 PHBN;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.54 NV2 PHBN;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.54 NV2 PHGY;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Far 1.5;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Miyosmart 1.59;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;NL 1.60M HVA STOC;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;HL 1.50C UC STOC;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;HL 1.50C HVA STOC;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMCP STOC D/Slim SkyLight;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMCSB STOC D/Slim SkyLight Digital UV;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMC STOC D/Basic Isee;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLASf 1.67W HMCP STOC D/HD Ultraslim Slim SkyLight UV;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;HL 1.50C SHV STOC;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;1.56 E56 AS PGC;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Nikon Lite AS 1.60 Pure Blue UV;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Bifocal 1.5;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 1.0 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60 NV2 PHGY;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.54 NV2 PHBN;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.54 NV2 PHGY;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Flex 1.5;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Near 1.5;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Hilux TrueForm 1.60 Sensity Dark;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Hilux TrueForm 1.50 Sensity Dark;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W UC STOC D/Basic Simple;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMCSB STOC D/Basic SkyLight Digital UV;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMC STOC D/Slim Isee;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.56W HMCP Photo/SunComfort Basic SkyLight UV;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMCP STOC D/Basic SkyLight;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLASf 1.60W HMCP STOC D/HD Slim SkyLight UV;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLBifC28 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 PhotoDark;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 PhotoDark;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50 Polar;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WL Reader I 0.75 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.60 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.50 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.60 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.50 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.60 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.50 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.60 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.50 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60 PhotoDark;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50 PhotoDark;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Organic 1.54 HSAR Brown/Grey stock Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLAssist II - 0.88 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WLAssist II - 0.88 1.60 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WL Assist II - 0.88 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.60 Photo;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  A;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.67;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Near 1.6;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Flex 1.6;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Far 1.6;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  B;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  A;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  B;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.5;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.5;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.5;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.6;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.6;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6 NV2 Photogrey;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6 NV2 Photobrown;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6 NV2 Photogrey;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6 NV2 Photobrown;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6 NV2 Photobrown;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.50;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60 NV2 photogrey;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60 NV2 photobrown;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.5 1.60;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.6;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6 NV2 Photogrey;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;1.6 Lutina AS PGC-UV;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;1.5 E50 PGC;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;1.5 TBC;Материал линзы ОЛ;Полимер
+0;RM;2025-05-18 18:38:27.000;;1.52 Stigmal 15;Материал линзы ОЛ;Стекло
+0;RM;2025-05-18 18:38:27.000;;Nikon Lite AS 1.60 Pure Blue UV;Бренд;NIKON
+0;RM;2025-05-18 18:38:27.000;;Nikon Lite AS 1.50 ECC;Бренд;NIKON
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMCSB STOC D/Slim SkyLight Digital UV;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMCP STOC D/Slim SkyLight;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;HL 1.50C HVA STOC;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;HL 1.50C UC STOC;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;NL 1.60M HVA STOC;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Miyosmart 1.59;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.50;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60 NV2 PHBN;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;HL 1.53P HVA STOC;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 HVA (Stock+);Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 SHV (Stock+);Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Nikon Lite AS 1.50 ECC;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.60 NV2 Photobrown;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.60 NV2 Photogrey;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.60 NV2 Photobrown;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.60 NV2 Photogrey;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.5 (RX);Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.5 (RX);Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.6;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.6;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;AS Stellest Airwear 1.59;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Nikon Lite AS 1.60 Pure Blue UV;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;1.5 TBC;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;1.5 E50 PGC;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;1.6 Lutina AS PGC-UV;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Bifocal 1.5;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLASf 1.67W HMCP STOC D/HD Ultraslim Slim SkyLight UV;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMC STOC D/Basic Isee;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;HL 1.50C SHV STOC;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;1.52 Stigmal 15;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  B;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  A;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  B;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Organic 1.54 HSAR Brown/Grey stock Photo;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50 PhotoDark;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60 PhotoDark;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.50 Photo;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.50;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.60 Photo;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.60;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.50 Photo;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.50;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.60 Photo;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.60;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WL Reader I 0.75 1.50;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.50;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.60;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50 Polar;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60 Photo;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.67;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLBifC28 1.50;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLASf 1.60W HMCP STOC D/HD Slim SkyLight UV;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMCP STOC D/Basic SkyLight;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.56W HMCP Photo/SunComfort Basic SkyLight UV;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMC STOC D/Slim Isee;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMCSB STOC D/Basic SkyLight Digital UV;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W UC STOC D/Basic Simple;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Hilux TrueForm 1.50 Sensity Dark;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Hilux TrueForm 1.60 Sensity Dark;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  A;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60 NV2 PHGY;Индивидуальность;Стандартные
+0;RM;2025-05-18 18:38:27.000;;AS Stellest Airwear 1.59;Материал линзы ОЛ;Поликарбонат
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.8 1.60;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60 NV2 photogrey;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60 NV2 photobrown;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.5 1.60;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.6;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6 NV2 Photogrey;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.67;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.67;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.67;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Near 1.6;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Flex 1.6;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Far 1.6;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  B;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  A;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.5;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.5;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.5;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.6;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.6;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6 NV2 Photogrey;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6 NV2 Photobrown;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6 NV2 Photogrey;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6 NV2 Photobrown;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6 NV2 Photobrown;Дизайн линзы;Прочее
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMC STOC D/Basic Isee;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;WLASf 1.67W HMCP STOC D/HD Ultraslim Slim SkyLight UV;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W UC STOC D/Basic Simple;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMCSB STOC D/Basic SkyLight Digital UV;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMC STOC D/Slim Isee;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.56W HMCP Photo/SunComfort Basic SkyLight UV;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMCP STOC D/Basic SkyLight;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;WLASf 1.60W HMCP STOC D/HD Slim SkyLight UV;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;1.6 Lutina AS PGC-UV;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;1.5 E50 PGC;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;1.5 TBC;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMCP STOC D/Slim SkyLight;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMCSB STOC D/Slim SkyLight Digital UV;Призма ОЛ;Нет
+0;RM;2025-05-18 18:38:27.000;;1.52 Stigmal 15;Название покрытия ОЛ;Без покрытия
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Book 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Office 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Ultimate Pc 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 Photo;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 PhotoDark;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 Photo;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 PhotoDark;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50 Photo;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60 Photo;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50 Photo;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60 Photo;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50 Photo;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60 Photo;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50 Photo;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60 Photo;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6 NV2 Photogrey;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.6 NV2 Photobrown;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6 NV2 Photobrown;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6 NV2 Photogrey;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6 NV2 Photobrown;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6 NV2 Photogrey;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60 NV2 photobrown;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60 NV2 photogrey;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.67;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.54 NV2 PHGY;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.54 NV2 PHBN;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 1.0 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.60;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.54 NV2 PHBN;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.54 NV2 PHGY;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.54 NV2 PHBN;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.54 NV2 PHGY;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.54 NV2 PHBN;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.54 NV2 PHGY;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.50;Индивидуальность;Индивидуальные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.5 1.50;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.8 1.50;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Far 1.5;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.67;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.8 1.60;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.6;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.6;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.5;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.5;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.5;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.6;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.5 1.60;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60 NV2 photobrown;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.60 NV2 photogrey;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.50;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.50 Photo;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.50;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.60 Photo;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.60;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.50 Photo;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.50;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.60 Photo;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.60;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Far 1.6;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Flex 1.6;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Near 1.6;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.50;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.60;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 1.0 1.50;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.50;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.60 Photo;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.60;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WL Assist II - 0.88 1.50;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WLAssist II - 0.88 1.60 Photo;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WLAssist II - 0.88 1.60;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Near 1.5;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Flex 1.5;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.54 NV2 PHGY;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.54 NV2 PHBN;Индивидуальность;Оптимизированные
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.60;Тип дизайна прогрессивной линзы;400
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.50;Тип дизайна прогрессивной линзы;400
+0;RM;2025-05-18 18:38:27.000;;WLASf 1.67W HMCP STOC D/HD Ultraslim Slim SkyLight UV;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMC STOC D/Basic Isee;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMCP STOC D/Slim SkyLight;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMCSB STOC D/Slim SkyLight Digital UV;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.60 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WL Assist II - 0.88 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLAssist II - 0.88 1.60 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLAssist II - 0.88 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50 PhotoDark;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60 PhotoDark;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.67;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.67;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.67;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.67;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.50 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.60 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus11 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.50 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.60 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgPlus14 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.50 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.60 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic11 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.50 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.60 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLProgBasic15 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WL Reader I 0.75 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50 Polar;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.67;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.50 PhotoDark;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 Photo;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.60 PhotoDark;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSVInd 1.67;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLBifC28 1.50;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLASf 1.60W HMCP STOC D/HD Slim SkyLight UV;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMCP STOC D/Basic SkyLight;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60W HMC STOC D/Slim Isee;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.56W HMCP Photo/SunComfort Basic SkyLight UV;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W HMCSB STOC D/Basic SkyLight Digital UV;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50W UC STOC D/Basic Simple;Бренд;KEFF WL
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 SHV (Stock+);Положение оптического центра;По веку
+0;RM;2025-05-18 18:38:27.000;;Bifocal 1.5;Положение оптического центра;По веку
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.60;Положение оптического центра;По веку
+0;RM;2025-05-18 18:38:27.000;;WL Reader II 1.50 1.50;Положение оптического центра;По веку
+0;RM;2025-05-18 18:38:27.000;;WL Reader I 0.75 1.50;Положение оптического центра;По веку
+0;RM;2025-05-18 18:38:27.000;;WLBifC28 1.50;Положение оптического центра;По веку
+0;RM;2025-05-18 18:38:27.000;;Addpower 1.50 HVA (Stock+);Положение оптического центра;По веку
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.54 NV2 PHGY;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.54 NV2 PHBN;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 1.0 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.54 NV2 PHGY;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.54 NV2 PHBN;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.54 NV2 PHGY;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.54 NV2 PHBN;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Miyosmart 1.59;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.54 NV2 PHGY;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Far 1.5;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.54 NV2 PHBN;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 1.0 1.60 NV2 PHBN;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.5 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.8 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 1.0 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.60 NV2 Photogrey;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.60 NV2 Photobrown;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.60 NV2 Photogrey;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.67;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.5 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Supreme 1.67;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.67;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.5 (RX);Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.5 (RX);Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60 NV2 photogrey;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate 1.60 NV2 photobrown;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.8 1.6;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Free Plus 0.5 1.6;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Ultimate Plus 0.8 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;SV Supreme Plus 0.8 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;AS Stellest Airwear 1.59;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WL Multifocal Office 400 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50 Photo;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50 Photo;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.60 Photo;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.67;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60 Photo;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 11 1.67;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50 Photo;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60 Photo;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 11 1.67;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.50 Photo;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.60 PhotoDark;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLSf 1.50 PhotoDark;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.60 Photo;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Elite 14 1.67;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLProgPremInd-Exclusive 14 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  A;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.60 Photo;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WL Assist I - 0.53 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WL Assist II - 0.88 1.50;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLAssist II - 0.88 1.60 Photo;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;WLAssist II - 0.88 1.60;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.50  B;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  A;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Intermediate 1.60  B;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Supreme Pref Far 1.6;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.5;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme PC Organic 1.5;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Book Organic 1.5;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Near Vision Supreme Office Organic 1.6;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.67;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.67;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Far 1.67;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Near 1.6;Положение оптического центра;По глазу
+0;RM;2025-05-18 18:38:27.000;;Pal Ultimate Pref Flex 1.6;Положение оптического центра;По глазу

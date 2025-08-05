@@ -1,0 +1,1 @@
+.venv\Scripts\activate && python -m jupyter notebook --ServerApp.ip="*"
