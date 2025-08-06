@@ -14,19 +14,20 @@ pip install fastapi uvicorn pydantic scikit-learn pandas
 Проверка работы API (/health)
 curl -X GET http://127.0.0.1:5000/health
 curl -X GET http://127.0.0.1:5000/stats
-curl -X POST http://127.0.0.1:5000/predict_model -H "Content-Type: application/json" -d "{\"Pclass\": 3, \"Age\": 22.0, \"Fare\": 7.2500}"
+curl -X POST http://127.0.0.1:5000/predict_model -H "Content-Type: application/json" -d "{\"Degr0_8\": 0, \"Degr1_5\": 0, \"Brend_TOKAI\": 0, \"Brend_ESSILOR\": 0, \"Brend_KEFF_PREMIUM_by_RODENSTOCK\": 0, \"Brend_NIKON\": 0, \"Brend_KEFF_WL\": 0, \"Vertex_v_probnoi_oprave_0\": 0, \"Dizain_linzy_Prochee\": 0, \"Individualnost_Standartnye\": 0, \"Individualnost_Optimizirovannye\": 0, \"Individualnost_Individualnye\": 0, \"Isklucheniya_METS_Net\": 0, \"Isklucheniya_METS_Da\": 0, \"Material_linzy_OL_Polimer\": 0, \"Material_linzy_OL_Steklo\": 0, \"Material_linzy_OL_Polikarbons\": 0, \"Minimalnyi_koridor_progressii_0\": 0, \"Polozhenie_opticheskogo_tsentra_Po_glazu\": 0, \"Polozhenie_opticheskogo_tsentra_Po_veku\": 0, \"Prizma_OL_Net\": 0, \"Svetoproppuskaniye_Polarizatsionnye\": 1, \"Tip_linzy_Ofisnyi_progressiv\": 0, \"Tip_linzy_Polnyi_progressiv\": 0, \"Indeks_prelomleniya\": 1.5}"
 '''
 
 from fastapi import FastAPI, Request, HTTPException
 import pickle
 import pandas as pd
 from pydantic import BaseModel
+from vec2pack import *
 
 app = FastAPI()
 
 # Загрузка модели из файла pickle
 with open('model.pkl', 'rb') as f:
-    model = pickle.load(f)
+    loadModels = pickle.load(f)
 
 # Счетчик запросов
 request_count = 0
@@ -60,21 +61,6 @@ class PredictionInput(BaseModel):
     Tip_linzy_Polnyi_progressiv: int
     Indeks_prelomleniya: float
 
-       'Бренд.KEFF PREMIUM by RODENSTOCK', 'Бренд.NIKON', 'Бренд.KEFF WL',
-       'Вертекс в пробной оправе.0', 'Дизайн линзы.Прочее',
-       'Индивидуальность.Стандартные', 'Индивидуальность.Оптимизированные',
-       'Индивидуальность.Индивидуальные', 'Исключения METS.Нет',
-       'Исключения METS.Да', 'Материал линзы ОЛ.Полимер',
-       'Материал линзы ОЛ.Стекло', 'Материал линзы ОЛ.Поликарбонат',
-       'Минимальный коридор прогрессии.0',
-       'Положение оптического центра.По глазу',
-       'Положение оптического центра.По веку', 'Призма ОЛ.Нет',
-       'Светопропускание.Поляризационные', 'Тип линзы.Офисный прогрессив',
-       'Тип линзы.Полный прогрессив', 'Индекс преломления'
-    IndecsPrelom: float
-    Age: float
-    Fare: float
-
 @app.get("/stats")
 def stats():
     return {"request_count": request_count}
@@ -90,19 +76,62 @@ def predict_model(input_data: PredictionInput):
 
     # Создание DataFrame из данных
     new_data = pd.DataFrame({
-        'Pclass': [input_data.Pclass],
-        'Age': [input_data.Age],
-        'Fare': [input_data.Fare]
+
+        'Degr.0,8': [input_data.Degr0_8],
+        'Degr.1,5': [input_data.Degr1_5],
+        'Бренд.TOKAI': [input_data.Brend_TOKAI],
+        'Бренд.ESSILOR': [input_data.Brend_ESSILOR],
+        'Бренд.KEFF PREMIUM by RODENSTOCK': [input_data.Brend_KEFF_PREMIUM_by_RODENSTOCK],
+        'Бренд.NIKON': [input_data.Brend_NIKON],
+        'Бренд.KEFF WL': [input_data.Brend_KEFF_WL],
+        'Вертекс в пробной оправе.0': [input_data.Vertex_v_probnoi_oprave_0],
+        'Дизайн линзы.Прочее': [input_data.Dizain_linzy_Prochee],
+        'Индивидуальность.Стандартные': [input_data.Individualnost_Standartnye],
+        'Индивидуальность.Оптимизированные': [input_data.Individualnost_Optimizirovannye],
+        'Индивидуальность.Индивидуальные': [input_data.Individualnost_Individualnye],
+        'Исключения METS.Нет': [input_data.Isklucheniya_METS_Net],
+        'Исключения METS.Да': [input_data.Isklucheniya_METS_Da],
+        'Материал линзы ОЛ.Полимер': [input_data.Material_linzy_OL_Polimer],
+        'Материал линзы ОЛ.Стекло': [input_data.Material_linzy_OL_Steklo],
+        'Материал линзы ОЛ.Поликарбонат': [input_data.Material_linzy_OL_Polikarbons],
+        'Минимальный коридор прогрессии.0': [input_data.Minimalnyi_koridor_progressii_0],
+        'Положение оптического центра.По глазу': [input_data.Polozhenie_opticheskogo_tsentra_Po_glazu],
+        'Положение оптического центра.По веку': [input_data.Polozhenie_opticheskogo_tsentra_Po_veku],
+        'Призма ОЛ.Нет': [input_data.Prizma_OL_Net],
+        'Светопропускание.Поляризационные': [input_data.Svetoproppuskaniye_Polarizatsionnye],
+        'Тип линзы.Офисный прогрессив': [input_data.Tip_linzy_Ofisnyi_progressiv],
+        'Тип линзы.Полный прогрессив': [input_data.Tip_linzy_Polnyi_progressiv],
+        'Индекс преломления': [input_data.Indeks_prelomleniya]
+
     })
 
-    # Предсказание
-    predictions = model.predict(new_data)
+    lenses = new_data
+    predicted_results_vec = []
+
+    for index, _ in lenses.iterrows():
+        predicted_values_by_group = {}
+        for column, model in loadModels.items():
+            if model == None:
+                predicted_values_by_group[column] = {}
+                continue
+
+            predicted_values_by_group[column] = {value: prob for prob, value in zip(model.predict_proba(lenses.iloc[[index]])[0], model.classes_)}
+
+        predicted_results_vec.append(predicted_values_by_group)
+        
+    vec2pack = Vec2Pack('СборДанныхBI_20250520_145108.XLSX')
+
+    predicted_results_pack = []
+
+    for pack_vec in predicted_results_vec:
+        predicted_results_pack.append(vec2pack.get_package(pack_vec))
 
     # Преобразование результата в человеко-читаемый формат
-    result = "Survived" if predictions[0] == 1 else "Not Survived"
+    result = predicted_results_pack[0]
 
     return {"prediction": result}
 
 if __name__ == '__main__':
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=5000)
+    uvicorn.run(app, host="127.0.0.1", port=5000)
+
