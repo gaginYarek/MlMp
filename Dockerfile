@@ -15,4 +15,4 @@ RUN pip3 install -r requirements-docker.txt
 # Затем копируем остальной код
 COPY . /app
 
-CMD ["python3", "app_api.py"]
+CMD sh -c "python3 app_api.py & streamlit run streamlit_app.py"

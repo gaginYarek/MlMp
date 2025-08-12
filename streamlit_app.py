@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from requests.exceptions import ConnectionError
 
-ip_api = "5.159.103.200"
+ip_api = "127.0.0.1"
 port_api = "5000"
 
 # Заголовок приложения
