@@ -1,0 +1,6 @@
+.venv/
+__ pyache__/
+.idea/
+.ipynb_checkpoints/
+.json
+.png

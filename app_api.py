@@ -61,6 +61,8 @@ class PredictionInput(BaseModel):
     Tip_linzy_Polnyi_progressiv: int
     Indeks_prelomleniya: float
 
+vec2pack = Vec2Pack('СборДанныхBI_20250520_145108.XLSX')
+
 @app.get("/stats")
 def stats():
     return {"request_count": request_count}
@@ -119,7 +121,6 @@ def predict_model(input_data: PredictionInput):
 
         predicted_results_vec.append(predicted_values_by_group)
         
-    vec2pack = Vec2Pack('СборДанныхBI_20250520_145108.XLSX')
 
     predicted_results_pack = []
 
