@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.idea/
+.ipynb_checkpoints/
+*.json
+*.png
+*.dot
+
+*.ipynb
+*.csv
+*.md
+.git
